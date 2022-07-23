@@ -1,0 +1,7 @@
+name: Furukawa
+main: dev.ponyo.furukawa.MAin
+version: 1.0
+website: https://ponyo.dev
+description: Essential Plugin for Minecraft Server
+authors: [Matthew]
+api-version: "1.13"
